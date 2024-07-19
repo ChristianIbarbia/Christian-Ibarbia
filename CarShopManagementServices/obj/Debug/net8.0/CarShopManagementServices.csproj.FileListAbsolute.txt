@@ -1,0 +1,17 @@
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementServices\bin\Debug\net8.0\CarShopManagementServices.deps.json
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementServices\bin\Debug\net8.0\CarShopManagementServices.dll
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementServices\bin\Debug\net8.0\CarShopManagementServices.pdb
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementServices\bin\Debug\net8.0\CarShopManagementData.dll
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementServices\bin\Debug\net8.0\CarShopManagementModels.dll
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementServices\bin\Debug\net8.0\CarShopManagementModels.pdb
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementServices\bin\Debug\net8.0\CarShopManagementData.pdb
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementServices\obj\Debug\net8.0\CarShopManagementServices.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementServices\obj\Debug\net8.0\CarShopManagementServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementServices\obj\Debug\net8.0\CarShopManagementServices.AssemblyInfoInputs.cache
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementServices\obj\Debug\net8.0\CarShopManagementServices.AssemblyInfo.cs
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementServices\obj\Debug\net8.0\CarShopManagementServices.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementServices\obj\Debug\net8.0\CarShopM.374FDE85.Up2Date
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementServices\obj\Debug\net8.0\CarShopManagementServices.dll
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementServices\obj\Debug\net8.0\refint\CarShopManagementServices.dll
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementServices\obj\Debug\net8.0\CarShopManagementServices.pdb
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementServices\obj\Debug\net8.0\ref\CarShopManagementServices.dll

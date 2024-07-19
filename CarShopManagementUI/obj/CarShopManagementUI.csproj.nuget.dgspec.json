@@ -1,0 +1,279 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagementUI\\CarShopManagementUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagementModels\\CarShopManagementModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagementModels\\CarShopManagementModels.csproj",
+        "projectName": "CarShopManagementModels",
+        "projectPath": "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagementModels\\CarShopManagementModels.csproj",
+        "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagementModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagementServices\\CarShopManagementServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagementServices\\CarShopManagementServices.csproj",
+        "projectName": "CarShopManagementServices",
+        "projectPath": "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagementServices\\CarShopManagementServices.csproj",
+        "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagementServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagementModels\\CarShopManagementModels.csproj": {
+                "projectPath": "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagementModels\\CarShopManagementModels.csproj"
+              },
+              "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagement\\CarShopManagementData.csproj": {
+                "projectPath": "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagement\\CarShopManagementData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagementUI\\CarShopManagementUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagementUI\\CarShopManagementUI.csproj",
+        "projectName": "CarShopManagementUI",
+        "projectPath": "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagementUI\\CarShopManagementUI.csproj",
+        "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagementUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagementModels\\CarShopManagementModels.csproj": {
+                "projectPath": "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagementModels\\CarShopManagementModels.csproj"
+              },
+              "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagementServices\\CarShopManagementServices.csproj": {
+                "projectPath": "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagementServices\\CarShopManagementServices.csproj"
+              },
+              "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagement\\CarShopManagementData.csproj": {
+                "projectPath": "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagement\\CarShopManagementData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagement\\CarShopManagementData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagement\\CarShopManagementData.csproj",
+        "projectName": "CarShopManagementData",
+        "projectPath": "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagement\\CarShopManagementData.csproj",
+        "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagementModels\\CarShopManagementModels.csproj": {
+                "projectPath": "C:\\Users\\Christian\\source\\repos\\CarShopManagement\\CarShopManagementModels\\CarShopManagementModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
