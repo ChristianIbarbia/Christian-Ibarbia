@@ -1,0 +1,11 @@
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementModels\bin\Debug\net8.0\CarShopManagementModels.deps.json
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementModels\bin\Debug\net8.0\CarShopManagementModels.dll
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementModels\bin\Debug\net8.0\CarShopManagementModels.pdb
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementModels\obj\Debug\net8.0\CarShopManagementModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementModels\obj\Debug\net8.0\CarShopManagementModels.AssemblyInfoInputs.cache
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementModels\obj\Debug\net8.0\CarShopManagementModels.AssemblyInfo.cs
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementModels\obj\Debug\net8.0\CarShopManagementModels.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementModels\obj\Debug\net8.0\CarShopManagementModels.dll
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementModels\obj\Debug\net8.0\refint\CarShopManagementModels.dll
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementModels\obj\Debug\net8.0\CarShopManagementModels.pdb
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagementModels\obj\Debug\net8.0\ref\CarShopManagementModels.dll

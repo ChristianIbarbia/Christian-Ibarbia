@@ -1,0 +1,15 @@
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagement\obj\Debug\net8.0\CarShopManagementData.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagement\obj\Debug\net8.0\CarShopManagementData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagement\obj\Debug\net8.0\CarShopManagementData.AssemblyInfoInputs.cache
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagement\obj\Debug\net8.0\CarShopManagementData.AssemblyInfo.cs
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagement\obj\Debug\net8.0\CarShopManagementData.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagement\bin\Debug\net8.0\CarShopManagementData.deps.json
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagement\bin\Debug\net8.0\CarShopManagementData.dll
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagement\bin\Debug\net8.0\CarShopManagementData.pdb
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagement\bin\Debug\net8.0\CarShopManagementModels.dll
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagement\bin\Debug\net8.0\CarShopManagementModels.pdb
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagement\obj\Debug\net8.0\CarShopM.10654896.Up2Date
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagement\obj\Debug\net8.0\CarShopManagementData.dll
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagement\obj\Debug\net8.0\refint\CarShopManagementData.dll
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagement\obj\Debug\net8.0\CarShopManagementData.pdb
+C:\Users\Christian\source\repos\CarShopManagement\CarShopManagement\obj\Debug\net8.0\ref\CarShopManagementData.dll
